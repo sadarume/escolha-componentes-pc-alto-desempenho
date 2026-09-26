@@ -1,0 +1,22 @@
+ESCOLHA DE COMPONENTES PARA COMPUTADOR DE ALTO DESEMPENHO
+
+Arquivos nesta pasta:
+  Escolha de componentes para computador de alto desempenho.py
+      programa Python completo e independente
+  codigo_python.txt - cópia do mesmo código para leitura/entrega em TXT
+
+Como executar:
+  Abra o PowerShell nesta pasta e digite:
+  py -3.13 ".\Escolha de componentes para computador de alto desempenho.py"
+
+O programa pergunta orçamento, objetivo, resolução, tipo de jogo,
+RAM e armazenamento. Depois mostra uma configuração compatível que
+cabe no orçamento, ou informa que não encontrou uma opção adequada.
+É possível refazer a consulta ao terminar.
+As quantidades de RAM e SSD escolhidas são respeitadas no cálculo.
+Para 1080p competitivo com jogos e trabalho, 16 GB de RAM e SSD de
+500 GB, há uma opção de exemplo a partir de R$ 3.500.
+
+A base de conhecimento está no próprio arquivo Python. Ela contém
+opções iniciais para 1080p, 1440p e 4K, com preços ilustrativos entre
+R$ 3.500 e cerca de R$ 44.000. Os valores não são cotações de lojas.
