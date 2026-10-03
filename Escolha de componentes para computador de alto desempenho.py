@@ -1,9 +1,3 @@
-"""Sistema especialista de PCs no estilo dos exercícios do ZIP.
-
-Base de conhecimento + perguntas + regras SE/ENTÃO + recomendação.
-Execute com: py -3.13 "Escolha de componentes para computador de alto desempenho.py"
-"""
-
 import math
 
 
